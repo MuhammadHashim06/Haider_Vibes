@@ -1,0 +1,28 @@
+.container-about {
+    padding: 2%;
+    margin: 10%;
+    margin-top: 5%;
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    text-align: center;
+    padding: 2%;
+  }
+  
+  .img-about {
+    width: 35%;
+    padding-left: 0;
+    display: flex;
+    float: right;
+    padding: 5%;
+  }
+  
+  h3 {
+    /* Add your styles for h3 here */
+  }
+  
+  p {
+    /* Add your styles for p here */
+  }
+  

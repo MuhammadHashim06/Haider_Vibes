@@ -1,0 +1,10 @@
+.card {
+  margin: 5%;
+    transition: ease .5s;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  

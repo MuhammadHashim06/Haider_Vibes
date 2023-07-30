@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  p {
+    font-size: 125%;
+  }
+  
+  .welcome {
+    padding: 15%;
+    filter : blur(0);
+    margin-top: 2%;
+    background-size: cover;
+    align-items: center;
+    background-position: center;
+    text-align: center;
+    transition: 2s ease;
+    /* background-image: url('./Facebook.png'); */
+  }
+  
+  .container {
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .row
+  {
+    transition: ease 2s;
+  }
+  .btn:hover
+  {
+    background-color: #8258FA;
+  }
+  

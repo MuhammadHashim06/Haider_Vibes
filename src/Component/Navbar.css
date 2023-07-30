@@ -1,0 +1,21 @@
+.navbar
+{
+ background-color: #CECEF6; 
+}
+.nav-link {
+border-radius: 10px;
+margin: 3px;
+transition: ease 1s;
+  }
+  .nav-link:hover {
+background-color: #8258FA;
+border-radius: 5px;
+  }
+  .navbar-toggler
+  {
+    color:#8258FA ;
+    background-color: #8258FA;
+  }
+.navbar-light .navbar-toggler-icon {
+    background-image: url("./Purple-icon.png");
+  }
